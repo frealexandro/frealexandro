@@ -183,9 +183,6 @@
 - ✅ **Google Cloud Professional Data Engineer** (Certified x2)
 - ✅ **GCP Specialist** en Vertex AI y BigQuery
 - 🏆 **+3 años** en desarrollo de software
-- 👨‍🏫 **Mentor** de nuevos ingenieros en Data & AI
-- 🎥 **Creador de Contenido Técnico** en YouTube, TikTok y Twitch
-- 📚 **Perfil activo en Platzi** con 616 seguidores y +500 conexiones
 - 🚀 **Founder** de proyectos open-source en Data Engineering
 
 ---
@@ -202,11 +199,11 @@
 <td width="60%" align="center">
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" 
        alt="Mark streak" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" />
+       src="https://github-readme-streak-stats.herokuapp.com/?user=frealexandro&theme=dark&hide_border=false" />
 </td>
 
 <td width="40%" align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" 
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=frealexandro&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" 
        alt="Top Languages" />
 </td>
 
@@ -216,7 +213,7 @@
 <div align="center" style="margin-top: 20px;">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
     <img width="84%" 
-         src="https://github-profile-trophy.vercel.app/?username=unsimpledev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" 
+         src="https://github-profile-trophy.vercel.app/?username=frealexandro&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" 
          alt="TROPHY" />
   </a>
 </div>
