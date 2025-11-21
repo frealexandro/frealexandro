@@ -116,13 +116,13 @@
 <td width="25%" align="center">
 
   <!-- TÍTULO -->
-  <p align="center"><strong>Fidu Agent</strong></p>
+  <p align="center"><strong>Rand AI</strong></p>
 
   <!-- IMAGEN -->
   <p align="center">
-    <a title="Fidu Agent ADK">
-      <img align="center" width="100%" src="https://github.com/frealexandro/fiduciary_agent/raw/main/fiduciary-agent-adk/assets/c4d02619-de19-4bc0-b611-780dcc678acd.jpeg" alt="fidu-agent-adk" />
-      <a href="https://github.com/frealexandro/fiduciary_agent" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+    <a title="Rand AI">
+      <img align="center" width="100%" src="https://github.com/frealexandro/Open_Source_Data_Automation_Workflows_Rand_AI/raw/Master/assets/rand_data_work_flow_ai.jpg" alt="fidu-agent-adk" />
+      <a href="https://github.com/frealexandro/Open_Source_Data_Automation_Workflows_Rand_AI" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </a>
   </p>
     
@@ -130,7 +130,7 @@
 <td width="25%" align="center">
 
   <!-- TÍTULO -->
-  <p align="center"><strong>Data Engineer Senior</strong></p>
+  <p align="center"><strong>Data Engineer Senior AI</strong></p>
 
   <!-- IMAGEN -->
   <p align="center">
