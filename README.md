@@ -222,7 +222,7 @@
 
 - ✅ **Google Cloud Professional Data Engineer** (Certified x2)
 - ✅ **GCP Specialist** en Vertex AI y BigQuery
-- 🏆 **+15 años** en desarrollo de software
+- 🏆 **+3 años** en desarrollo de software
 - 👨‍🏫 **Mentor** de nuevos ingenieros en Data & AI
 - 🎥 **Creador de Contenido Técnico** en YouTube, TikTok y Twitch
 - 📚 **Perfil activo en Platzi** con 616 seguidores y +500 conexiones
@@ -251,7 +251,6 @@
 ## 📫 Conecta Conmigo
 
 <p align="center">
-  💼 Abierto a oportunidades en <b>Data Engineering, MLOps y Gen AI</b>
   <br>
   📧 <b>Email:</b>jhoner300@gmail.com
   <br>
@@ -265,7 +264,8 @@
 ---
 
 <p align="center">
-  <i>"Transformando datos en conocimiento, código en soluciones, y conocimiento en contenido para la comunidad"</i>
-  <br><br>
+  <br>
+Keep learning everywhere 🌱✨
+<br>
   ⭐️ From <a href="https://github.com/frealexandro">frealexandro</a> with 💙
 </p>
