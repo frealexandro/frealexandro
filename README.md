@@ -147,6 +147,7 @@
 
    <td width="25%" align="center">
     <p align="center">
+      <a title="Fidu Agent">
         <img align="center" width=100% src="https://github.com/frealexandro/fiduciary_agent/raw/main/fiduciary-agent-adk/assets/c4d02619-de19-4bc0-b611-780dcc678acd.jpeg"   alt="fidu-agent-adk" /></a>
       </p>
     <p align="center">
@@ -164,7 +165,7 @@
 
 ---
 
-## 🎓 Certifications & Achievements
+## 🎓 Certifications
 
 <table align="left" >
 <tr border="none">
