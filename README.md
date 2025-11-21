@@ -172,8 +172,8 @@
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
-        <img align="center" width=100% src="https://www.credly.com/badges/0de0be19-8444-4ec5-b2e0-ed67c78e59c9/public_url"   alt="IMAGE" /></a>
+     <a href="https://www.credly.com/badges/0de0be19-8444-4ec5-b2e0-ed67c78e59c9/public_url" target="_blank">
+        <img src="https://images.credly.com/size/220x220/images/ec23e41a-0f32-4a98-9c00-28925621b281/blob" alt="GCP Badge"   </a>
       </p>
 
 </td>
