@@ -1,6 +1,6 @@
 # <h1 align="center">👋 Hola, soy Santiago Novoa</h1>
 
-<h3 align="center">Data Engineer | MLOps | Gen AI | GCP Certified x2 | Content Creator</h3>
+<h3 align="center">Data Engineer | MLOps | Gen AI | GCP Certified x2 | AWS</h3>
 
 <p align="center">
   <a href="https://www.youtube.com/@unsimpledev" target="_blank">
@@ -22,7 +22,7 @@
 
 💼 **Data Engineer AI** especializado en arquitectura de datos moderna y sistemas de IA
 
-🏆 **GCP Certified x2** | Experto en Google Cloud Platform
+🏆 **GCP Certified x2** | **AWS**
 
 🔥 **+3 años** de experiencia en desarrollo de software: desarrollador, arquitecto, fundador, data engineer
 
