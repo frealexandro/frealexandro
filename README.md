@@ -116,7 +116,7 @@
 <td width="25%" align="center">
 
   <!-- TÍTULO -->
-  <p align="center"><strong>Rand AI</strong></p>
+  <p align="center"><strong>Rand AI (Data Automation Workflows)</strong></p>
 
   <!-- IMAGEN -->
   <p align="center">
