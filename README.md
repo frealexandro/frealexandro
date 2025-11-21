@@ -187,17 +187,11 @@
   
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/py31Y1Ku4Es" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp"   alt="VIDEO" /></a>
+     <a href="[https://youtu.be/py31Y1Ku4Es](https://www.linkedin.com/posts/santiago-novoa-progrmacion123_outsiders-tecnologaeda-ia-activity-7321708440203022336-xwSd?utm_source=share&utm_medium=member_desktop&rcm=ACoAADXIZUYBQhF84DUkf_v4rk0BIqmOj7lGLiQ)" title="Go to Source">
+        <img align="center" width=100% src="https://media.licdn.com/dms/image/v2/D4E22AQGdLWpj-ibhNA/feedshare-shrink_2048_1536/B4EZZvu_IXHMAo-/0/1745631317435?e=1765411200&v=beta&t=bDA3c5rfULUy0ty_Fukb2_DD1Jvoywby3AvEaMCMYd4"   alt="HAKATHON" /></a>
       </p>     
 </td>
 
-   <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/FbQtooM3UIs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp"   alt="VIDEO" /></a>
-      </p>  
-</td>
   
 </tr>
 </table>
