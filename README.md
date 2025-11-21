@@ -3,13 +3,13 @@
 <h3 align="center">Data Engineer | MLOps | Gen AI | GCP Certified x2 | AWS</h3>
 
 <p align="center">
-  <a href="https://www.youtube.com/@unsimpledev" target="_blank">
+  <a href="https://www.youtube.com/@frealexandro" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://linkedin.com/in/unsimpledev" target="_blank">
+  <a href="https://www.linkedin.com/in/santiago-novoa-progrmacion123/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://platzi.com/p/unsimpledev" target="_blank">
+  <a href="https://platzi.com/p/santiago-novoa-rojas/" target="_blank">
     <img src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white" alt="Platzi" />
   </a>
 </p>
