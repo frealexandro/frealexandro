@@ -182,26 +182,6 @@
     </a>
   </td>
 
-  <td width="25%" align="center">
-    <a href="https://youtu.be/FbQtooM3UIs">
-      <img width="100%" src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp" alt="Traductor"/>
-    </a>
-    <br><br>
-    <b>Traductor con IA</b>
-    <br>
-    Aplicación de traducción potenciada con modelos de lenguaje avanzados
-    <br>
-    <code>Python</code> <code>OpenAI API</code> <code>Flutter</code>
-    <br><br>
-    <a href="https://youtu.be/FbQtooM3UIs">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-    </a>
-    <a href="https://github.com/unsimpledev/MiTraductor">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-  </td>
-</tr>
-</table>
 
 ---
 
