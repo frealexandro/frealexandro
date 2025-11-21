@@ -50,7 +50,7 @@
 
 👨‍🏫 **Mentor** de nuevos ingenieros en Data, Analytics y AI
 
-📫 **Contacto:** unsimpledev@gmail.com
+📫 **Contacto:** jhoner300@gmail.com
 
 ---
 
