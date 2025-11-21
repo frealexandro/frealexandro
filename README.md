@@ -130,7 +130,7 @@
 <td width="25%" align="center">
 
   <!-- TÍTULO -->
-  <p align="center"><strong>Data Engineer Senior Interviews</strong></p>
+  <p align="center"><strong>Data Engineer Senior</strong></p>
 
   <!-- IMAGEN -->
   <p align="center">
