@@ -237,13 +237,13 @@
 <p align="center">
   💼 Abierto a oportunidades en <b>Data Engineering, MLOps y Gen AI</b>
   <br>
-  📧 <b>Email:</b> unsimpledev@gmail.com
+  📧 <b>Email:</b>jhoner300@gmail.com
   <br>
-  🌐 <b>LinkedIn:</b> <a href="https://linkedin.com/in/unsimpledev">unsimpledev</a>
+  🌐 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/santiago-novoa-progrmacion123/">santiago novoa</a>
   <br>
   🎥 <b>YouTube:</b> <a href="https://youtube.com/@unsimpledev">@unsimpledev</a>
   <br>
-  📚 <b>Platzi:</b> <a href="https://platzi.com/p/unsimpledev">unsimpledev</a>
+  📚 <b>Platzi:</b> <a href="https://platzi.com/p/santiago-novoa-rojas/">unsimpledev</a>
 </p>
 
 ---
