@@ -113,36 +113,48 @@
 
 <table align="left" >
 <tr border="none">
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
+<td width="25%" align="center">
+
+  <!-- TÍTULO -->
+  <p align="center"><strong>Fidu Agent</strong></p>
+
+  <!-- IMAGEN -->
+  <p align="center">
+    <a title="Fidu Agent ADK">
+      <img align="center" width="100%" src="https://github.com/frealexandro/fiduciary_agent/raw/main/fiduciary-agent-adk/assets/c4d02619-de19-4bc0-b611-780dcc678acd.jpeg" alt="fidu-agent-adk" />
+      <a href="https://github.com/frealexandro/fiduciary_agent" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+    </a>
+  </p>
+    
 </td>
 <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/fiUkA2OZQjs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
+
+  <!-- TÍTULO -->
+  <p align="center"><strong>Fidu Agent</strong></p>
+
+  <!-- IMAGEN -->
+  <p align="center">
+    <a title="Fidu Agent ADK">
+      <img align="center" width="100%" src="https://github.com/frealexandro/fiduciary_agent/raw/main/fiduciary-agent-adk/assets/c4d02619-de19-4bc0-b611-780dcc678acd.jpeg" alt="fidu-agent-adk" />
+      <a href="https://github.com/frealexandro/fiduciary_agent" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+    </a>
+  </p>
+    
 </td>
   
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/py31Y1Ku4Es" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/py31Y1Ku4Es" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/MiChatGPT" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
+<td width="25%" align="center">
+
+  <!-- TÍTULO -->
+  <p align="center"><strong>Fidu Agent</strong></p>
+
+  <!-- IMAGEN -->
+  <p align="center">
+    <a title="Fidu Agent ADK">
+      <img align="center" width="100%" src="https://github.com/frealexandro/fiduciary_agent/raw/main/fiduciary-agent-adk/assets/c4d02619-de19-4bc0-b611-780dcc678acd.jpeg" alt="fidu-agent-adk" />
+      <a href="https://github.com/frealexandro/fiduciary_agent" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+    </a>
+  </p>
+    
 </td>
 
 <td width="25%" align="center">
@@ -152,7 +164,7 @@
 
   <!-- IMAGEN -->
   <p align="center">
-    <a title="Fidu Agent">
+    <a title="Fidu Agent ADK">
       <img align="center" width="100%" src="https://github.com/frealexandro/fiduciary_agent/raw/main/fiduciary-agent-adk/assets/c4d02619-de19-4bc0-b611-780dcc678acd.jpeg" alt="fidu-agent-adk" />
       <a href="https://github.com/frealexandro/fiduciary_agent" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </a>
