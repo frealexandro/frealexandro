@@ -251,5 +251,5 @@
 <p align="center">
   <i>"Transformando datos en conocimiento, código en soluciones, y conocimiento en contenido para la comunidad"</i>
   <br><br>
-  ⭐️ From <a href="https://github.com/unsimpledev">unsimpledev</a> with 💙
+  ⭐️ From <a href="https://github.com/frealexandro">frealexandro</a> with 💙
 </p>
