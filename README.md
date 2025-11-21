@@ -187,8 +187,8 @@
   
 <td width="25%" align="center">
     <p align="center">
-     <a href="https://www.credly.com/badges/a8bc4f87-f99f-4d51-80a0-25c94b4772ca/public_url" title="Go to Source">
-        <img align="center" width=100% src="https://images.credly.com/size/220x220/images/2d613ff8-8879-430b-b2d8-925fa29785e8/image.png"   alt="GCP Badge"  /></a>
+     <a href="https://www.credly.com/badges/aee92d20-f886-4c5b-9881-631319f361a5/public_url" title="Go to Source">
+        <img align="center" width=100% src=https://images.credly.com/size/220x220/images/f4c342c9-af98-4352-b54a-a8a166ee8f68/image.png"   alt="GCP Badge"  /></a>
       </p>
 </td>
 
