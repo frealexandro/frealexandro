@@ -16,26 +16,26 @@
 
 ---
 
-## 🚀 Sobre Mí
+## 🚀 About Me
 
 📍 Bogotá, Colombia
 
-💼 **Data Engineer AI** especializado en arquitectura de datos moderna y sistemas de IA
+💼 **AI Data Engineer** specialized in modern data architecture and AI systems
 
 🏆 **GCP Certified x2** | **AWS**
 
-🔥 **+3 años** de experiencia en desarrollo de software: desarrollador, arquitecto, fundador, data engineer
+🔥 **3+ years** of experience in software development: developer, architect, founder, data engineer
 
-🎥 **Creador de Contenido Técnico** en YouTube, Twitch compartiendo conocimiento sobre:
+🎥 **Technical Content Creator** on YouTube and Twitch, sharing knowledge about:
 - Data Engineering & Cloud Architecture (GCP, AWS)
 - MLOps & Machine Learning Operations
 - Generative AI & Large Language Models
-- Big Data con Apache Spark
-- Automatización y mejores prácticas
+- Big Data with Apache Spark
+- Automation and best practices
 
-🌱 **Fundador de Rand** - Framework open-source para optimizar workflows de datos y ETL pipelines en la nube
+🌱 **Founder of Rand** – Open-source framework to optimize data workflows and cloud ETL pipelines
 
-📫 **Contacto:** jhoner300@gmail.com
+📫 **Contact:** jhoner300@gmail.com
 
 ---
 
