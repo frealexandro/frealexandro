@@ -150,8 +150,8 @@
   <!-- IMAGEN -->
   <p align="center">
     <a title="Fidu Agent ADK">
-      <img align="center" width="100%" src="https://github.com/frealexandro/fiduciary_agent/raw/main/fiduciary-agent-adk/assets/c4d02619-de19-4bc0-b611-780dcc678acd.jpeg" alt="fidu-agent-adk" />
-      <a href="https://github.com/frealexandro/fiduciary_agent" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+      <img align="center" width="100%" src="https://github.com/frealexandro/AI_Football_Analyst_Databricks_Community_Edition/raw/main/assets/cda25435-283f-4777-ba35-e638223717de.jpeg" alt="fidu-agent-adk" />
+      <a href="https://github.com/frealexandro/AI_Football_Analyst_Databricks_Community_Edition" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@frealexandro" /></a>
     </a>
   </p>
     
@@ -166,7 +166,7 @@
   <p align="center">
     <a title="Fidu Agent ADK">
       <img align="center" width="100%" src="https://github.com/frealexandro/fiduciary_agent/raw/main/fiduciary-agent-adk/assets/c4d02619-de19-4bc0-b611-780dcc678acd.jpeg" alt="fidu-agent-adk" />
-      <a href="https://github.com/frealexandro/fiduciary_agent" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+      <a href="https://github.com/frealexandro/fiduciary_agent" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@frealexandro" /></a>
     </a>
   </p>
     
