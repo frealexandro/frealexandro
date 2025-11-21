@@ -149,7 +149,7 @@
 
   <!-- IMAGEN -->
   <p align="center">
-    <a title="Fidu Agent ADK">
+    <a title="AI Football Analyst">
       <img align="center" width="100%" src="https://github.com/frealexandro/AI_Football_Analyst_Databricks_Community_Edition/raw/main/assets/cda25435-283f-4777-ba35-e638223717de.jpeg" alt="fidu-agent-adk" />
       <a href="https://github.com/frealexandro/AI_Football_Analyst_Databricks_Community_Edition" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@frealexandro" /></a>
     </a>
