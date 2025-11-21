@@ -1,5 +1,6 @@
 <h1 align="center"><b>Hi , I'm Santiago Novoa </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
+
+
 <p align="center">
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23F7D700&size=28&center=true&vCenter=true&width=600&height=80&lines=Data+Engineer;MLOps;Gen+AI;GCP+Certified+x2;AWS;Google+ADK;Claude+Code" />
