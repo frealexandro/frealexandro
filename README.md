@@ -145,7 +145,7 @@
 <td width="25%" align="center">
 
   <!-- TÍTULO -->
-  <p align="center"><strong>Fidu Agent</strong></p>
+  <p align="center"><strong>AI Football Analyst</strong></p>
 
   <!-- IMAGEN -->
   <p align="center">
