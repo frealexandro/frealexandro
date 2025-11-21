@@ -241,9 +241,9 @@
   <br>
   🌐 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/santiago-novoa-progrmacion123/">santiago novoa</a>
   <br>
-  🎥 <b>YouTube:</b> <a href="https://youtube.com/@unsimpledev">@unsimpledev</a>
+  🎥 <b>YouTube:</b> <a href="https://www.youtube.com/channel/UCDij5X3VwfBQI09tP9VZV3A">santiago novoa</a>
   <br>
-  📚 <b>Platzi:</b> <a href="https://platzi.com/p/santiago-novoa-rojas/">unsimpledev</a>
+  📚 <b>Platzi:</b> <a href="https://platzi.com/p/santiago-novoa-rojas/">santiago novoa</a>
 </p>
 
 ---
