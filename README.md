@@ -25,8 +25,6 @@
 
 📍 Bogotá, Colombia
 
-💼 **AI Data Engineer** specialized in modern data architecture and AI systems
-
 🏆 **GCP Certified x2** | **AWS**
 
 🔥 **3+ years** of experience in software development: developer, architect, founder, data engineer
