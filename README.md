@@ -50,26 +50,12 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-### 🟧 AWS Services
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
-![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F00?style=for-the-badge&logo=amazon-api-gateway&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![ECS](https://img.shields.io/badge/ECS-FF6F00?style=for-the-badge&logo=amazon-ecs&logoColor=white)
-![EKS](https://img.shields.io/badge/EKS-0052CC?style=for-the-badge&logo=amazon-eks&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
-![SNS](https://img.shields.io/badge/SNS-FF9900?style=for-the-badge&logo=amazon-sns&logoColor=white)
-![SQS](https://img.shields.io/badge/SQS-FF4F00?style=for-the-badge&logo=amazon-sqs&logoColor=white)
-![CloudFront](https://img.shields.io/badge/CloudFront-9D4AFE?style=for-the-badge&logo=amazon-cloudfront&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazon-iam&logoColor=white)
+
+### 📊 Data Engineering & Big Data
 ![Athena](https://img.shields.io/badge/Athena-3B4CCA?style=for-the-badge&logo=amazon-athena&logoColor=white)
 ![Glue](https://img.shields.io/badge/Glue-0A66C2?style=for-the-badge&logo=awsglue&logoColor=white)
 ![Redshift](https://img.shields.io/badge/Redshift-1D72B8?style=for-the-badge&logo=amazon-redshift&logoColor=white)
-
-### 📊 Data Engineering & Big Data
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
@@ -99,6 +85,7 @@
 
 
 ### 🗄️ Data Bases
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
