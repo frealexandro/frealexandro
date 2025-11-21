@@ -173,7 +173,7 @@
   <td width="25%" align="center">
     <p align="center">
      <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
-        <img align="center" width=100% src="<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0de0be19-8444-4ec5-b2e0-ed67c78e59c9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>"   alt="VIDEO" /></a>
+        <img align="center" width=100% src="https://www.credly.com/badges/0de0be19-8444-4ec5-b2e0-ed67c78e59c9/public_url"   alt="IMAGE" /></a>
       </p>
 
 </td>
