@@ -185,11 +185,18 @@
 </td>
 
   
-  <td width="25%" align="center">
+<td width="25%" align="center">
     <p align="center">
-     <a href="[https://youtu.be/py31Y1Ku4Es](https://www.linkedin.com/posts/santiago-novoa-progrmacion123_outsiders-tecnologaeda-ia-activity-7321708440203022336-xwSd?utm_source=share&utm_medium=member_desktop&rcm=ACoAADXIZUYBQhF84DUkf_v4rk0BIqmOj7lGLiQ)" title="Go to Source">
-        <img align="center" width=100% src="https://media.licdn.com/dms/image/v2/D4E22AQGdLWpj-ibhNA/feedshare-shrink_2048_1536/B4EZZvu_IXHMAo-/0/1745631317435?e=1765411200&v=beta&t=bDA3c5rfULUy0ty_Fukb2_DD1Jvoywby3AvEaMCMYd4"   alt="HAKATHON" /></a>
-      </p>     
+     <a href="https://www.credly.com/badges/a8bc4f87-f99f-4d51-80a0-25c94b4772ca/public_url" title="Go to Source">
+        <img align="center" width=100% src="https://images.credly.com/size/220x220/images/2d613ff8-8879-430b-b2d8-925fa29785e8/image.png"   alt="GCP Badge"  /></a>
+      </p>
+</td>
+
+<td width="25%" align="center">
+    <p align="center">
+     <a href="https://www.credly.com/badges/a8bc4f87-f99f-4d51-80a0-25c94b4772ca/public_url" title="Go to Source">
+        <img align="center" width=100% src="https://images.credly.com/size/220x220/images/2d613ff8-8879-430b-b2d8-925fa29785e8/image.png"   alt="GCP Badge"  /></a>
+      </p>
 </td>
 
   
