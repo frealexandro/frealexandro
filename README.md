@@ -73,6 +73,7 @@
 ### 🤖 AI & Machine Learning
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AutoML](https://img.shields.io/badge/AutoML-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![ADK](https://img.shields.io/badge/ADK-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graph&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
