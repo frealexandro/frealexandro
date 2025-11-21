@@ -147,12 +147,10 @@
 
    <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/FbQtooM3UIs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp"   alt="VIDEO" /></a>
+        <img align="center" width=100% src="https://github.com/frealexandro/fiduciary_agent/raw/main/fiduciary-agent-adk/assets/c4d02619-de19-4bc0-b611-780dcc678acd.jpeg"   alt="fidu-agent-adk" /></a>
       </p>
     <p align="center">
-        <a href="https://youtu.be/FbQtooM3UIs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/MiTraductor" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+      <a href="https://github.com/frealexandro/fiduciary_agent" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
 </td>
   
