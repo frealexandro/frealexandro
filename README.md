@@ -130,13 +130,13 @@
 <td width="25%" align="center">
 
   <!-- TÍTULO -->
-  <p align="center"><strong>Fidu Agent</strong></p>
+  <p align="center"><strong>Data Engineer Senior Interviews</strong></p>
 
   <!-- IMAGEN -->
   <p align="center">
-    <a title="Fidu Agent ADK">
-      <img align="center" width="100%" src="https://github.com/frealexandro/fiduciary_agent/raw/main/fiduciary-agent-adk/assets/c4d02619-de19-4bc0-b611-780dcc678acd.jpeg" alt="fidu-agent-adk" />
-      <a href="https://github.com/frealexandro/fiduciary_agent" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+    <a title="Data Engineer Senior Interviews">
+      <img align="center" width="100%" src="https://github.com/frealexandro/senior_data_engineer_technical_tests/raw/main/assets/36395024-82ee-4cd8-81ce-571792eec50f.jpeg" alt="fidu-agent-adk" />
+      <a href="https://github.com/frealexandro/senior_data_engineer_technical_tests" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </a>
   </p>
     
