@@ -81,7 +81,7 @@
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graph&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### 💻 Lenguajes de Programación
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -95,7 +95,7 @@
 ![Reflex](https://img.shields.io/badge/Reflex-6C47FF?style=for-the-badge&logo=react&logoColor=white)
 
 
-### 🗄️ Bases de Datos
+### 🗄️ Data Bases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -119,7 +119,7 @@
 ---
 
 
-## 🎯 Proyectos Destacados
+## 🎯 Featured Projects
 
 <table align="left" >
 <tr border="none">
@@ -176,7 +176,7 @@
 
 ---
 
-## 🎓 Certificaciones & Logros
+## 🎓 Certifications & Achievements
 
 <table align="left" >
 <tr border="none">
