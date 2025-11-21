@@ -192,60 +192,33 @@
 
 ## 📊 Estadísticas de GitHub
 
-<h2>GitHub :octocat:</h2>
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="left">
-<tr border="none">
-<td width="60%" align="center">
+<h2 align="center">GitHub :octocat:</h2>
 
-<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
-  <br></br> -->
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" /> 
+<p align="center">
+
+<table align="center">
+<tr border="none">
+
+<td width="60%" align="center">
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" 
+       alt="Mark streak" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" />
 </td>
 
 <td width="40%" align="center">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" 
+       alt="Top Languages" />
+</td>
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-  </td>
 </tr>
 </table>
-<!--- stats (end) -->
 
-<!--- trophy (start) -->
-<div align=left>
+<div align="center" style="margin-top: 20px;">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=unsimpledev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
+    <img width="84%" 
+         src="https://github-profile-trophy.vercel.app/?username=unsimpledev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" 
+         alt="TROPHY" />
+  </a>
 </div>
-<!--- trophy (start) -->
 
-
-</p>        
-
-
-
-
-## 📫 Conecta Conmigo
-
-<p align="center">
-  <br>
-  📧 <b>Email:</b>jhoner300@gmail.com
-  <br>
-  🌐 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/santiago-novoa-progrmacion123/">santiago novoa</a>
-  <br>
-  🎥 <b>YouTube:</b> <a href="https://www.youtube.com/channel/UCDij5X3VwfBQI09tP9VZV3A">santiago novoa</a>
-  <br>
-  📚 <b>Platzi:</b> <a href="https://platzi.com/p/santiago-novoa-rojas/">santiago novoa</a>
-</p>
-
----
-
-<p align="center">
-  <br>
-Keep learning everywhere 🌱✨
-<br>
-  ⭐️ From <a href="https://github.com/frealexandro">frealexandro</a> with 💙
 </p>
