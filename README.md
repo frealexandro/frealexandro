@@ -217,16 +217,16 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frealexandro&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unsimpledev&theme=radical&hide_border=false&layout=compact&langs_count=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frealexandro&theme=radical&hide_border=false&layout=compact&langs_count=10" alt="Top Languages" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=unsimpledev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=frealexandro&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trophies" />
   </a>
 </p>
 
