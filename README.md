@@ -31,15 +31,15 @@
 
 ## 🚀 Sobre Mí
 
-🎓 **Ingeniero en Informática** | 📍 Bogotá, Colombia
+📍 Bogotá, Colombia
 
 💼 **Data Engineer AI** especializado en arquitectura de datos moderna y sistemas de IA
 
 🏆 **GCP Certified x2** | Experto en Google Cloud Platform
 
-🔥 **+15 años** de experiencia en desarrollo de software: desarrollador, líder, arquitecto, cofundador, emprendedor
+🔥 **+3 años** de experiencia en desarrollo de software: desarrollador, arquitecto, fundador, data engineer
 
-🎥 **Creador de Contenido Técnico** en YouTube, TikTok y Twitch compartiendo conocimiento sobre:
+🎥 **Creador de Contenido Técnico** en YouTube, Twitch compartiendo conocimiento sobre:
 - Data Engineering & Cloud Architecture (GCP, AWS)
 - MLOps & Machine Learning Operations
 - Generative AI & Large Language Models
@@ -117,78 +117,6 @@
 
 ---
 
-## 💼 Experiencia Profesional
-
-### 🏢 Data Engineer AI | **Hakabana**
-**Febrero 2024 - Presente** · 1 año 10 meses
-
-- 🏗️ Diseño de arquitecturas de **data lakes**, pipelines distribuidos y analytics avanzado en entornos cloud
-- 🔌 Integración de plataformas de marketing: Google, Meta, LinkedIn, X, TikTok con sistemas automatizados de reporting
-- 🤖 Desarrollo de **sistemas RAG** (Retrieval-Augmented Generation) para recuperación contextual de datos
-- 🧠 Construcción de agentes inteligentes usando **Agent Builder, LangGraph, ADK y Agent Engine**
-- 💡 Implementación de workflows con Gen AI aplicando técnicas de prompting: few-shot, zero-shot, chain-of-thought
-- 📊 Creación de sistemas predictivos para performance de marketing y comportamiento de clientes con **Vertex AI, AutoML, Airflow, BigQuery**
-- 🚨 Desarrollo de sistemas de alertas conectados a **Brandwatch y Sprout Social** para detección de keywords y volúmenes
-- ⚡ Optimización de BigQuery reduciendo tiempos de ejecución de minutos a segundos
-- 📉 Reducción del **60% en fallas de pipelines** mediante sistemas de monitoreo proactivo
-- 👨‍🏫 Mentoría de nuevos ingenieros en analytics, automatización y mejores prácticas
-
-**Aptitudes:** Google Cloud AutoML · Python · BigQuery · Airflow · Vertex AI · MLOps · Gen AI · Data Engineering
-
----
-
-### 🚀 Founder AI | **Rand**
-**Junio 2024 - Octubre 2025** · 1 año 5 meses  
-📍 Bogotá, Colombia · Remoto
-
-- 🛠️ Desarrollo de **framework open-source** para optimizar workflows de datos y ETL pipelines en la nube
-- ⚽ Construcción de sistema de **AI Football Analyst** en Databricks con pipelines end-to-end, 20+ features engineered, modelos ML para predicción de partidos (100% Databricks Community Edition)
-- 🎥 Líder de sesiones técnicas en vivo en **Twitch** sobre Data Engineering, Gen AI, automatización cloud y mejores prácticas
-- 🤖 Diseño e implementación de agentes AI y frameworks de automatización usando **ADK, LangGraph y Agent Builder** para empresas como Harttrick
-- 💼 Co-fundador de **Frailejon.tech**: Data Analytics as a Service y programas de capacitación técnica
-- 🌐 Desarrollo web con **Vue.js, HTML, CSS** e implementación de infraestructura **AWS** para deployment y escalabilidad
-- 🐳 Creación de web app con **Reflex + Supabase**, containerizada con **Docker** y desplegada en **Google Cloud Run**
-
-**Aptitudes:** Amazon Web Services (AWS) · Python · Docker · Vue.js · Databricks · LangGraph · ADK · Vertex AI
-
----
-
-### 📊 Data Engineer Jr | **Hakabana**
-**Diciembre 2022 - Enero 2024** · 1 año 2 meses
-
-- 🏗️ Diseño de pipelines de datos escalables para marketing
-- ✅ Desarrollo de sistemas automatizados de validación de datos para métricas de marketing
-- 📈 Creación de sistemas de monitoreo que redujeron las fallas de pipelines en **60%**
-- ⚡ Optimización de rendimiento de BigQuery para queries de analytics
-
-**Aptitudes:** BigQuery · Python · Data Pipelines · SQL
-
----
-
-### 📈 Business Data Analyst | **Airtech Communications**
-**Enero 2022 - Julio 2022** · 7 meses  
-📍 Bogotá, Colombia
-
-- 📊 Análisis de bases de datos y creación de dashboards y reportes
-- 🔍 Análisis de información de líneas de negocio asignadas
-- 🚨 Identificación de problemas que afectan el crecimiento y generación de alertas
-- 💡 Generación de estrategias para beneficiar el negocio
-- 📅 Preparación de reportes diarios, semanales y mensuales
-
-**Aptitudes:** Python · Microsoft Power BI · Data Analysis · SQL
-
----
-
-### 💡 Intern BI | **Hakabana**
-**Junio 2022 - Noviembre 2022** · 6 meses  
-Jornada parcial
-
-- 🛠️ Resolución de problemas con Python, Power BI y GCP
-- 📊 Soporte en análisis de datos y business intelligence
-
-**Aptitudes:** Python · Data Analysis · Power BI · GCP
-
----
 
 ## 🎯 Proyectos Destacados
 
